@@ -8,11 +8,6 @@ BODY {
     background-color: black;
 	/* background-image: url('images/BAckground3test.jpg'); */
 }
-#particles-js{
-    background:black;
-    height:100%;
-    position: static;
-}
 h1 {
     font-size: 32pt;
     font-family: sans-serif;
