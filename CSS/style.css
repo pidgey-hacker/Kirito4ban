@@ -22,6 +22,9 @@ body {
     height: 100px;
   }
   @keyframes bgColor {
+    0% {
+      background-color: #ff1493;
+    }
     12.5% {
       background-color: #FF0000;
     }
